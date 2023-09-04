@@ -14,14 +14,16 @@ CALL apoc.create.addLabels(n, n.node_labels)
 YIELD node 
 RETURN node
 
-// How many Obama's are in the graph?
+// "How many Obama's are in the graph?"
 MATCH (n:Node)
 WHERE n.name CONTAINS 'obama'
 RETURN DISTINCT n.name
 
-// ***PROBLEM: WHERE WAS BARACK OBAMA BORN?***
+// ***PROBLEM: "WHERE WAS BARACK OBAMA BORN?"***   
+                    // -> What is the lemma of born
+                    // -> places that are at certain number of hops from obama
 
-// ***PROBLEM: HOW MANY DUPLICATES ARE THERE?***
+// ***PROBLEM: "HOW MANY DUPLICATES ARE THERE?"***
 
 // Drop duplicates
 MATCH (n:Node) 

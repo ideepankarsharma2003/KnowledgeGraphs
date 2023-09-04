@@ -4,7 +4,7 @@
 //
 ///////////////////
 
-// View all nodes
+// View all nodes ---> very much like Select* in SQL, () -> Nodes, [] -> Relationship
 MATCH (n) RETURN n
 
 // Delete all nodes and edges in graph
