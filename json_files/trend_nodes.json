@@ -1,0 +1,224 @@
+[
+    {
+        "query": "silent disco party",
+        "topics": [
+            "event",
+            "Silent disco",
+            "Silence",
+            "Dance party",
+            "1990s",
+            "Dance",
+            "Discotheque",
+            "Bachelorette party",
+            "Rent",
+            "Bluetooth",
+            "Idea",
+            "Party",
+            "Nightclub",
+            "Birthday",
+            "Boat",
+            "Discounts and allowances",
+            "Headphones"
+        ],
+        "baby_queries": [
+            "silent disco london",
+            "silent disco near me",
+            "silent disco boat party london",
+            "silent disco hire",
+            "silent disco headphones"
+        ]
+    },
+    {
+        "query": "silent disco london",
+        "topics": [
+            "Silent disco",
+            "Nightclub",
+            "Museum",
+            "Boat",
+            "Party",
+            "Brunch",
+            "Festival",
+            "Dinner",
+            "Discotheque",
+            "Night",
+            "Birthday",
+            "Idea"
+        ],
+        "baby_queries": [
+            "silent disco boat party london",
+            "silent disco london natural history museum"
+        ]
+    },
+    {
+        "query": "silent disco near me",
+        "topics": [
+            "Silent disco",
+            "Nightclub",
+            "Party",
+            "Rent",
+            "Silence",
+            "Headphones",
+            "Festival",
+            "Karaoke",
+            "Dance"
+        ],
+        "baby_queries": [
+            "silent disco hire near me"
+        ]
+    },
+    {
+        "query": "silent disco boat party london",
+        "topics": [
+            "Party",
+            "Boat",
+            "Silent disco",
+            "Nightclub"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco hire",
+        "topics": [
+            "Silent disco",
+            "Nightclub",
+            "Party",
+            "Headphones",
+            "Bachelorette party",
+            "Silence",
+            "Idea",
+            "Yorkshire",
+            "Audio headset",
+            "Cost",
+            "Karaoke",
+            "Tent",
+            "outdoor",
+            "Discounts and allowances"
+        ],
+        "baby_queries": [
+            "silent disco headphone hire",
+            "silent disco hire perth",
+            "silent disco hire near me",
+            "silent disco headphones"
+        ]
+    },
+    {
+        "query": "silent disco headphones",
+        "topics": [
+            "Headphones",
+            "Silent disco",
+            "Nightclub",
+            "Silence",
+            "Rent",
+            "Bluetooth",
+            "Party",
+            "Transmitter",
+            "connect",
+            "Wireless",
+            "Festival",
+            "Discotheque",
+            "Audio headset",
+            "personal",
+            "Sound",
+            "Do it yourself",
+            "Dance",
+            "DJ"
+        ],
+        "baby_queries": [
+            "silent disco headphones rental",
+            "rent silent disco headphones"
+        ]
+    },
+    {
+        "query": "silent disco hire perth",
+        "topics": [
+            "Party"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco headphones rental",
+        "topics": [
+            "Silent disco",
+            "Silence",
+            "Rent",
+            "Nightclub",
+            "Headphones"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco boat party london",
+        "topics": [
+            "Party",
+            "Silent disco",
+            "Nightclub",
+            "Boat"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco london natural history museum",
+        "topics": [
+            "Nightclub",
+            "Silent disco",
+            "Museum",
+            "Ticket"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco headphones",
+        "topics": [
+            "connect",
+            "Silent disco",
+            "Audio headset",
+            "Silence",
+            "Festival",
+            "DJ",
+            "Idea",
+            "Wireless",
+            "Discotheque",
+            "Rent",
+            "Bluetooth",
+            "Transmitter",
+            "Party",
+            "Nightclub",
+            "personal",
+            "Radio frequency",
+            "Headphones"
+        ],
+        "baby_queries": [
+            "boardmasters silent disco headphones",
+            "reading festival silent disco headphones",
+            "silent disco headphones rental",
+            "rent silent disco headphones"
+        ]
+    },
+    {
+        "query": "rent silent disco headphones",
+        "topics": [
+            "Rent",
+            "Silent disco",
+            "Nightclub",
+            "Headphones"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco headphone hire",
+        "topics": [
+            "Nightclub",
+            "Headphones"
+        ],
+        "baby_queries": []
+    },
+    {
+        "query": "silent disco hire near me",
+        "topics": [
+            "Party",
+            "Nightclub",
+            "Silent disco"
+        ],
+        "baby_queries": []
+    }
+]
